@@ -16,7 +16,7 @@ The **Class Diagram** of the project is also provided along with the **Database 
 ![class diagram](../master/images/diagram.PNG)
 
 **Note**: After Refactoring, new Class "HoldRequestOperations" is added to the above structure which lies in between the HoldRequest class and Book class.
-This class removes the bidirectional dependency between HoldRequest and Book. More details mentioned [here](https://github.com/OSSpk/Library-Management-System-JAVA/issues/9) 
+This class removes the bidirectional dependency between HoldRequest and Book. 
 
 ## Interface
 <p align="middle">
@@ -102,28 +102,6 @@ Now just click Next for the rest of the windows. After all this the database con
 The password for Administrative Functions is *lib*. The admin adds new clerks and librarian, then they both do the rest of the functions.
 
 <hr>
-
-## Authors 👋
-
-
-
-<!-- PROFILE_INTRO_START -->
-
-<hr>
-
-<h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
-Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</a> 👨🏻‍💻
-</h1>
-
-<hr>
-
-- <b>🛠️ Product Builder:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
- 
-- <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/harismuneer">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
-- <hr>
-
-
-
 
 
 <!-- PROFILE_INTRO_END -->
